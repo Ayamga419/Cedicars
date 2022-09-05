@@ -6,7 +6,9 @@ This is the analysis of USA used cars to identify auction pattern using Python.
 
 Objective
 
-The company allows customers to glance through their used cars which are up for sale. This allows prospective buyers to have an impression about the cars, its manufacturing details, present condition as well as its current auction price and to able to place their bids.
+
+Cedicars is a company that specialize in purchasing auction cars. The aim is to provide insights for Cedicars to know how to place their bids during auction sales.
+
 
 Tools
 
